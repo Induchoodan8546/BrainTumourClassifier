@@ -1,0 +1,10 @@
+venv/
+.env/
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.h5
+*.pkl
+.streamlit/
